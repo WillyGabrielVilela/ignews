@@ -10,7 +10,7 @@
 
 ## Sobre o projeto
 
-O projeto tem como objetivo o estudo e desenvolvimento de uma aplicação em ReactJS com NextJS para listagem de posts e sistema de inscrição(subscription).
+O projeto tem como objetivo desenvolver de uma aplicação em ReactJS com framework NextJS para listagem de posts e sistema de inscrição(subscription) através do metodo de pagamento Stripe.
 
 
 ## Tecnologias
